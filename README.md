@@ -11,9 +11,7 @@ A key feature is the automatically generated dashboard that visualizes document 
 
 This MVP includes:
 - Fully functional MongoDB integration
-- REST API endpoints for lead and research data
 - File upload, storage, and search capability
-- Automated email dispatch via SendGrid
 
 > 📝 Note:  
 > The MongoDB integration and core backend logic were fully implemented and tested in the original MVP.  
