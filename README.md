@@ -14,6 +14,4 @@ This MVP includes:
 - File upload, storage, and search capability
 
 > 📝 Note:  
-> The MongoDB integration and core backend logic were fully implemented and tested in the original MVP.  
-> This working code was **disregarded without review** and later **reimplemented from scratch** by another contributor, for unclear reasons.  
-> The original implementation remains preserved in this repository for transparency and reference.
+> The original, fully tested backend implementation is preserved and will be reintroduced here shortly. The decision to reimplement the backend from scratch is under review.
