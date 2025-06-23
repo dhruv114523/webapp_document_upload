@@ -12,6 +12,7 @@ A key feature is the automatically generated dashboard that visualizes document 
 This MVP includes:
 - Fully functional MongoDB integration
 - File upload, storage, and search capability
+- Automatic dashboard creation using metadata of documents that are uploaded
 
 > 📝 Note:  
 > The original, fully tested backend implementation is preserved and will be reintroduced here shortly. The decision to reimplement the backend from scratch is under review.
